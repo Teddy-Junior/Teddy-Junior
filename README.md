@@ -10,9 +10,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
-<div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a> 
-</div>
      
  <br>
  
@@ -22,6 +19,7 @@
   
 
   <a href="https://www.linkedin.com/in/teddy-robson-batista-junior-17a0841a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a> 
   
  
   ![Snake animation](https://github.com/Teddy-Junior/Teddy-Junior/blob/output/github-contribution-grid-snake.svg)
